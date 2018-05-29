@@ -50,7 +50,7 @@ var config = {
     tunnel: false,
     host: 'localhost',
     port: 3333,
-    logPrefix: "♥_YARRR_♥"
+    logPrefix: "_SOME_CHANGE_"
 };
 
 gulp.task('clear:prod', function () {

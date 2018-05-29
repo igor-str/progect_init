@@ -1,8 +1,8 @@
 {
-  "name": "trolizmaslom",
+  "name": "progect name",
   "version": "1.4.1",
   "description": "basic verst",
-  "author": "",
+  "author": "SIS",
   "dependencies": {
     "browser-sync": "^2.11.2",
     "check": "^1.0.0",
